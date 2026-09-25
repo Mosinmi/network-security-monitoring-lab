@@ -448,7 +448,3 @@ network-security-monitoring-lab/
 Conclusion
 
 This lab provided practical experience in network traffic capture, packet analysis, protocol identification, and security monitoring.
-
-The investigation demonstrated how a security analyst can use Wireshark and tcpdump to examine network communications, identify connection attempts, investigate TCP retransmissions, analyze DNS activity, inspect cleartext HTTP traffic, and distinguish encrypted TLS communications from plaintext protocols.
-
-The project forms part of a broader cybersecurity portfolio focused on practical security engineering and defensive security operations.
